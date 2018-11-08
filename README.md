@@ -1,16 +1,5 @@
-<p>'EditPlus3'만 줄곧 써오다가 올해 퇴직 후 공부하면서 쓰게 된 에디터 프로그램이다.</p>
-<p>'EditPlus3'만큼 가벼워서 빠르고 확장성이 용이한 에디터인 것 같다.</p>
-<p><br /></p>
 <p>설치는 <a href="http://www.sublimetext.com/3" target="_blank" class="tx-link">sublime Text 3</a>&nbsp;홈페이지에서 다운로드.</p>
-<p><br /></p>
-<p>쓰다보면 라이센스 등록하라는 팝업이 뜬다.</p>
-<p>개인용은 80달러로 원화로 약 9만원 가량 한다.</p>
-<p><br /></p>
-<p><br /></p>
-<p></p>
-
 <p></p><hr><p><br /></p>
-
 <p><b><span style="font-size: 18pt;">S</span><span style="font-size: 18pt;">etting 하기</span></b></p>
 <p><br /></p>
 <p><font color="#555555" face="Open Sans, malgungothic"><span style="color: rgb(0, 0, 0);"><span style="font-size: 14pt;">Packa</span><span style="font-size: 14pt;">ge Control 설치</span></span></font></p>
